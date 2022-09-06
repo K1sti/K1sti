@@ -16,7 +16,6 @@
   <img align="center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
-
   
 ##
 
@@ -25,3 +24,7 @@
   <a href = "mailto:p4bl01498@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablo-henrique-bortoluzzi-postay-751b69234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+![gif menor](https://user-images.githubusercontent.com/102882831/188710469-1e180ea1-03e0-4158-93c8-6e7edcbe8c92.gif)
