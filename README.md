@@ -15,7 +15,7 @@
   <img align="center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
+ </div>
   
 ##
 
@@ -28,6 +28,6 @@
   
 </div>
 
-
-
-![gif menor](https://user-images.githubusercontent.com/102882831/188710469-1e180ea1-03e0-4158-93c8-6e7edcbe8c92.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102882831/188710469-1e180ea1-03e0-4158-93c8-6e7edcbe8c92.gif"/>
+</p>
