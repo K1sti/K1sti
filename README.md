@@ -4,6 +4,11 @@
 - 📫 Contate-me no email: p4bl01498@gmail.com
 - 😄 Pronouns: ele/dele
 
+<div align="center">
+  <a href="https://github.com/K1sti"><br> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1sti&show_icons=true&theme=buefy&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1sti&layout=compact&langs_count=7&theme=buefy"/>
+</div>
 
 
 <div style="display: inline_block">
