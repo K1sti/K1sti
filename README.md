@@ -1,6 +1,6 @@
 ## Olá! Sou o Pablo Bortoluzzi👋
 
-- 🌱 Estudando Python
+- 🌱 Estudando Web
 - 📫 Contate-me no email: p4bl01498@gmail.com
 - 😄 Pronouns: ele/dele
 
