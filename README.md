@@ -27,6 +27,7 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1sti)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102882831/188710469-1e180ea1-03e0-4158-93c8-6e7edcbe8c92.gif"/>
