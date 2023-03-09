@@ -26,7 +26,7 @@
   
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K1sti&theme=dark&background=0b1024)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=K1sti_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1sti)](https://github.com/anuraghazra/github-readme-stats)
 
 
