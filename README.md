@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Python
 - 📫 Contate-me no email: p4bl01498@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 
