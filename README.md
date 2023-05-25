@@ -1,6 +1,6 @@
 ## Olá! Sou o Pablo Bortoluzzi👋
 
-- 🌱 Estudando Python
+- 🌱 Estudando Docker
 - 📫 Contate-me no email: p4bl01498@gmail.com
 
 
